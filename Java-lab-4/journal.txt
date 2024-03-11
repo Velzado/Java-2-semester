@@ -1,0 +1,616 @@
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@36bed37a
+Object loaded org.dstu.PhoneApplication@4a9a878
+Object loaded org.dstu.PhoneApplication@1b3ab4f9
+Object loaded org.dstu.PhoneApplication@5c6a5192
+Object loaded org.dstu.PhoneApplication@1c8f6c66
+Object loaded org.dstu.PhoneApplication@552cede7
+Object loaded org.dstu.PhoneApplication@1b7f06c7
+Object loaded org.dstu.PhoneApplication@151732fb
+Object loaded org.dstu.PhoneApplication@729c8063
+Object loaded org.dstu.PhoneApplication@40ed1802
+Object loaded org.dstu.PhoneApplication@23c767e6
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@5921b93c
+Object loaded org.dstu.PhoneApplication@faea4da
+Object loaded org.dstu.PhoneApplication@19b02dfd
+Object loaded org.dstu.PhoneApplication@3dce6dd8
+Object loaded org.dstu.PhoneApplication@69f2cb04
+Object loaded org.dstu.PhoneApplication@13803a94
+Object loaded org.dstu.PhoneApplication@b4732dc
+Object loaded org.dstu.PhoneApplication@45292ec1
+Object loaded org.dstu.PhoneApplication@3a7c678b
+Object loaded org.dstu.PhoneApplication@28babeca
+Object loaded org.dstu.PhoneApplication@1ad9b8d3
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@5921b93c
+Object loaded org.dstu.PhoneApplication@faea4da
+Object loaded org.dstu.PhoneApplication@19b02dfd
+Object loaded org.dstu.PhoneApplication@3dce6dd8
+Object loaded org.dstu.PhoneApplication@69f2cb04
+Object loaded org.dstu.PhoneApplication@13803a94
+Object loaded org.dstu.PhoneApplication@b4732dc
+Object loaded org.dstu.PhoneApplication@45292ec1
+Object loaded org.dstu.PhoneApplication@3a7c678b
+Object loaded org.dstu.PhoneApplication@28babeca
+Object loaded org.dstu.PhoneApplication@1ad9b8d3
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@36bed37a
+Object loaded org.dstu.PhoneApplication@4a9a878
+Object loaded org.dstu.PhoneApplication@1b3ab4f9
+Object loaded org.dstu.PhoneApplication@5c6a5192
+Object loaded org.dstu.PhoneApplication@1c8f6c66
+Object loaded org.dstu.PhoneApplication@552cede7
+Object loaded org.dstu.PhoneApplication@1b7f06c7
+Object loaded org.dstu.PhoneApplication@151732fb
+Object loaded org.dstu.PhoneApplication@729c8063
+Object loaded org.dstu.PhoneApplication@40ed1802
+Object loaded org.dstu.PhoneApplication@23c767e6
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+Object loaded   0                                   
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+Object loaded       0                                                                           false
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@5921b93c
+Object loaded org.dstu.PhoneApplication@faea4da
+Object loaded org.dstu.PhoneApplication@19b02dfd
+Object loaded org.dstu.PhoneApplication@3dce6dd8
+Object loaded org.dstu.PhoneApplication@69f2cb04
+Object loaded org.dstu.PhoneApplication@13803a94
+Object loaded org.dstu.PhoneApplication@b4732dc
+Object loaded org.dstu.PhoneApplication@45292ec1
+Object loaded org.dstu.PhoneApplication@3a7c678b
+Object loaded org.dstu.PhoneApplication@28babeca
+Object loaded org.dstu.PhoneApplication@1ad9b8d3
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Androidfalse
+Object loaded       2                         176151690971840    88005553539                 iOStrue
+Object loaded       4                         813403999171484    88005553540             Androidtrue
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@5921b93c
+Object loaded org.dstu.PhoneApplication@faea4da
+Object loaded org.dstu.PhoneApplication@19b02dfd
+Object loaded org.dstu.PhoneApplication@3dce6dd8
+Object loaded org.dstu.PhoneApplication@69f2cb04
+Object loaded org.dstu.PhoneApplication@13803a94
+Object loaded org.dstu.PhoneApplication@b4732dc
+Object loaded org.dstu.PhoneApplication@45292ec1
+Object loaded org.dstu.PhoneApplication@3a7c678b
+Object loaded org.dstu.PhoneApplication@28babeca
+Object loaded org.dstu.PhoneApplication@1ad9b8d3
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Androidfalse
+Object loaded       2                         176151690971840    88005553539                 iOStrue
+Object loaded       4                         813403999171484    88005553540             Androidtrue
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@36bed37a
+Object loaded org.dstu.PhoneApplication@4a9a878
+Object loaded org.dstu.PhoneApplication@1b3ab4f9
+Object loaded org.dstu.PhoneApplication@5c6a5192
+Object loaded org.dstu.PhoneApplication@1c8f6c66
+Object loaded org.dstu.PhoneApplication@552cede7
+Object loaded org.dstu.PhoneApplication@1b7f06c7
+Object loaded org.dstu.PhoneApplication@151732fb
+Object loaded org.dstu.PhoneApplication@729c8063
+Object loaded org.dstu.PhoneApplication@40ed1802
+Object loaded org.dstu.PhoneApplication@23c767e6
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Androidfalse
+Object loaded       2                         176151690971840    88005553539                 iOStrue
+Object loaded       4                         813403999171484    88005553540             Androidtrue
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535false
+Object loaded       3                         184201618194731    88005553536true
+Object loaded       5                         938621836238461    88005553537true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@23468512
+Object loaded org.dstu.PhoneApplication@69cd7630
+Object loaded org.dstu.PhoneApplication@7e8279e5
+Object loaded org.dstu.PhoneApplication@2b53840a
+Object loaded org.dstu.PhoneApplication@3caafa67
+Object loaded org.dstu.PhoneApplication@3e546734
+Object loaded org.dstu.PhoneApplication@53747c4a
+Object loaded org.dstu.PhoneApplication@64b0d1fa
+Object loaded org.dstu.PhoneApplication@f2276c9
+Object loaded org.dstu.PhoneApplication@12d2ddde
+Object loaded org.dstu.PhoneApplication@62b475e2
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Android false
+Object loaded       2                         176151690971840    88005553539                 iOS true
+Object loaded       4                         813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535 false
+Object loaded       3                         184201618194731    88005553536 true
+Object loaded       5                         938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@5921b93c
+Object loaded org.dstu.PhoneApplication@faea4da
+Object loaded org.dstu.PhoneApplication@19b02dfd
+Object loaded org.dstu.PhoneApplication@3dce6dd8
+Object loaded org.dstu.PhoneApplication@69f2cb04
+Object loaded org.dstu.PhoneApplication@13803a94
+Object loaded org.dstu.PhoneApplication@b4732dc
+Object loaded org.dstu.PhoneApplication@45292ec1
+Object loaded org.dstu.PhoneApplication@3a7c678b
+Object loaded org.dstu.PhoneApplication@28babeca
+Object loaded org.dstu.PhoneApplication@1ad9b8d3
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Android false
+Object loaded       2                         176151690971840    88005553539                 iOS true
+Object loaded       4                         813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535 false
+Object loaded       3                         184201618194731    88005553536 true
+Object loaded       5                         938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@202d9236
+Object loaded org.dstu.PhoneApplication@1f782c05
+Object loaded org.dstu.PhoneApplication@6d6ac396
+Object loaded org.dstu.PhoneApplication@432af457
+Object loaded org.dstu.PhoneApplication@f5a7226
+Object loaded org.dstu.PhoneApplication@519c6fcc
+Object loaded org.dstu.PhoneApplication@6ad1701a
+Object loaded org.dstu.PhoneApplication@7ecda95b
+Object loaded org.dstu.PhoneApplication@22da2fe6
+Object loaded org.dstu.PhoneApplication@100ad67e
+Object loaded org.dstu.PhoneApplication@713a35c5
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Android false
+Object loaded       2                         176151690971840    88005553539                 iOS true
+Object loaded       4                         813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535 false
+Object loaded       3                         184201618194731    88005553536 true
+Object loaded       5                         938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@202d9236
+Object loaded org.dstu.PhoneApplication@1f782c05
+Object loaded org.dstu.PhoneApplication@6d6ac396
+Object loaded org.dstu.PhoneApplication@432af457
+Object loaded org.dstu.PhoneApplication@f5a7226
+Object loaded org.dstu.PhoneApplication@519c6fcc
+Object loaded org.dstu.PhoneApplication@6ad1701a
+Object loaded org.dstu.PhoneApplication@7ecda95b
+Object loaded org.dstu.PhoneApplication@22da2fe6
+Object loaded org.dstu.PhoneApplication@100ad67e
+Object loaded org.dstu.PhoneApplication@713a35c5
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Android false
+Object loaded       2                         176151690971840    88005553539                 iOS true
+Object loaded       4                         813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535 false
+Object loaded       3                         184201618194731    88005553536 true
+Object loaded       5                         938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@23468512
+Object loaded org.dstu.PhoneApplication@69cd7630
+Object loaded org.dstu.PhoneApplication@7e8279e5
+Object loaded org.dstu.PhoneApplication@2b53840a
+Object loaded org.dstu.PhoneApplication@3caafa67
+Object loaded org.dstu.PhoneApplication@3e546734
+Object loaded org.dstu.PhoneApplication@53747c4a
+Object loaded org.dstu.PhoneApplication@64b0d1fa
+Object loaded org.dstu.PhoneApplication@f2276c9
+Object loaded org.dstu.PhoneApplication@12d2ddde
+Object loaded org.dstu.PhoneApplication@62b475e2
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Android false
+Object loaded       2                         176151690971840    88005553539                 iOS true
+Object loaded       4                         813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535 false
+Object loaded       3                         184201618194731    88005553536 true
+Object loaded       5                         938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@202d9236
+Object loaded org.dstu.PhoneApplication@1f782c05
+Object loaded org.dstu.PhoneApplication@6d6ac396
+Object loaded org.dstu.PhoneApplication@432af457
+Object loaded org.dstu.PhoneApplication@f5a7226
+Object loaded org.dstu.PhoneApplication@519c6fcc
+Object loaded org.dstu.PhoneApplication@6ad1701a
+Object loaded org.dstu.PhoneApplication@7ecda95b
+Object loaded org.dstu.PhoneApplication@22da2fe6
+Object loaded org.dstu.PhoneApplication@100ad67e
+Object loaded org.dstu.PhoneApplication@713a35c5
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0                         125366137829979    88005553538             Android false
+Object loaded       2                         176151690971840    88005553539                 iOS true
+Object loaded       4                         813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1                         167101618119874    88005553535 false
+Object loaded       3                         184201618194731    88005553536 true
+Object loaded       5                         938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@202d9236
+Object loaded org.dstu.PhoneApplication@1f782c05
+Object loaded org.dstu.PhoneApplication@6d6ac396
+Object loaded org.dstu.PhoneApplication@432af457
+Object loaded org.dstu.PhoneApplication@f5a7226
+Object loaded org.dstu.PhoneApplication@519c6fcc
+Object loaded org.dstu.PhoneApplication@6ad1701a
+Object loaded org.dstu.PhoneApplication@7ecda95b
+Object loaded org.dstu.PhoneApplication@22da2fe6
+Object loaded org.dstu.PhoneApplication@100ad67e
+Object loaded org.dstu.PhoneApplication@713a35c5
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@23468512
+Object loaded org.dstu.PhoneApplication@69cd7630
+Object loaded org.dstu.PhoneApplication@7e8279e5
+Object loaded org.dstu.PhoneApplication@2b53840a
+Object loaded org.dstu.PhoneApplication@3caafa67
+Object loaded org.dstu.PhoneApplication@3e546734
+Object loaded org.dstu.PhoneApplication@53747c4a
+Object loaded org.dstu.PhoneApplication@64b0d1fa
+Object loaded org.dstu.PhoneApplication@f2276c9
+Object loaded org.dstu.PhoneApplication@12d2ddde
+Object loaded org.dstu.PhoneApplication@62b475e2
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@4f59a516
+Object loaded org.dstu.PhoneApplication@4e22368c
+Object loaded org.dstu.PhoneApplication@411cd156
+Object loaded org.dstu.PhoneApplication@3c770db4
+Object loaded org.dstu.PhoneApplication@3e046e39
+Object loaded org.dstu.PhoneApplication@61cda923
+Object loaded org.dstu.PhoneApplication@46fc522d
+Object loaded org.dstu.PhoneApplication@4262fdeb
+Object loaded org.dstu.PhoneApplication@5f0a2638
+Object loaded org.dstu.PhoneApplication@5382184b
+Object loaded org.dstu.PhoneApplication@77cb452c
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@7e7743ec
+Object loaded org.dstu.PhoneApplication@776015fc
+Object loaded org.dstu.PhoneApplication@7f42e06e
+Object loaded org.dstu.PhoneApplication@6ad179b4
+Object loaded org.dstu.PhoneApplication@2efd2f21
+Object loaded org.dstu.PhoneApplication@59c500f7
+Object loaded org.dstu.PhoneApplication@316cda31
+Object loaded org.dstu.PhoneApplication@50110971
+Object loaded org.dstu.PhoneApplication@17d2b075
+Object loaded org.dstu.PhoneApplication@6661d8c0
+Object loaded org.dstu.PhoneApplication@310b2b6f
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@35dece42
+Object loaded org.dstu.PhoneApplication@dd3f8aa
+Object loaded org.dstu.PhoneApplication@3d615b2e
+Object loaded org.dstu.PhoneApplication@3a1f2a1
+Object loaded org.dstu.PhoneApplication@40ce9049
+Object loaded org.dstu.PhoneApplication@52ca2652
+Object loaded org.dstu.PhoneApplication@65c5bf0e
+Object loaded org.dstu.PhoneApplication@697d6ded
+Object loaded org.dstu.PhoneApplication@5d05f453
+Object loaded org.dstu.PhoneApplication@5efeb117
+Object loaded org.dstu.PhoneApplication@160b4809
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@6ad179b4
+Object loaded org.dstu.PhoneApplication@2efd2f21
+Object loaded org.dstu.PhoneApplication@59c500f7
+Object loaded org.dstu.PhoneApplication@316cda31
+Object loaded org.dstu.PhoneApplication@50110971
+Object loaded org.dstu.PhoneApplication@17d2b075
+Object loaded org.dstu.PhoneApplication@6661d8c0
+Object loaded org.dstu.PhoneApplication@310b2b6f
+Object loaded org.dstu.PhoneApplication@6909f6be
+Object loaded org.dstu.PhoneApplication@6b5ab2f2
+Object loaded org.dstu.PhoneApplication@315c081
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@6ad179b4
+Object loaded org.dstu.PhoneApplication@2efd2f21
+Object loaded org.dstu.PhoneApplication@59c500f7
+Object loaded org.dstu.PhoneApplication@316cda31
+Object loaded org.dstu.PhoneApplication@50110971
+Object loaded org.dstu.PhoneApplication@17d2b075
+Object loaded org.dstu.PhoneApplication@6661d8c0
+Object loaded org.dstu.PhoneApplication@310b2b6f
+Object loaded org.dstu.PhoneApplication@6909f6be
+Object loaded org.dstu.PhoneApplication@6b5ab2f2
+Object loaded org.dstu.PhoneApplication@315c081
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@2db6d68d
+Object loaded org.dstu.PhoneApplication@6518fdfd
+Object loaded org.dstu.PhoneApplication@11d2dd2d
+Object loaded org.dstu.PhoneApplication@cde8c6c
+Object loaded org.dstu.PhoneApplication@174721c4
+Object loaded org.dstu.PhoneApplication@3592c1c4
+Object loaded org.dstu.PhoneApplication@322e49ee
+Object loaded org.dstu.PhoneApplication@4aeb0e2b
+Object loaded org.dstu.PhoneApplication@648c5fb3
+Object loaded org.dstu.PhoneApplication@47b33e07
+Object loaded org.dstu.PhoneApplication@7126e26
+appsInstalled.csv successfully parsed. Got 12 items
+Object loaded   1       Telegram              12.4.2
+Object loaded   2          Skype               4.3.2
+Object loaded   3       Whatsapp               6.7.1
+Object loaded   4        Discord              2.3.45
+Object loaded   5      Госуслуги              1.18.3
+Object loaded   6        Госключ               1.4.2
+Object loaded   7   Space Impact               1.0.0
+applications.csv successfully parsed. Got 8 items
+Object loaded       0       Xiaomi POCO 1     125366137829979    88005553538             Android false
+Object loaded       2       IPhone 13 Max     176151690971840    88005553539                 iOS true
+Object loaded       4         Samsung S21     813403999171484    88005553540             Android true
+smartphones.csv successfully parsed. Got 4 items
+Object loaded       1          Nokia 3310     167101618119874    88005553535 false
+Object loaded       3        Siemens L215     184201618194731    88005553536 true
+Object loaded       5        Samsung r213     938621836238461    88005553537 true
+mobilephones.csv successfully parsed. Got 4 items
+Object loaded org.dstu.PhoneApplication@2db6d68d
+Object loaded org.dstu.PhoneApplication@6518fdfd
+Object loaded org.dstu.PhoneApplication@11d2dd2d
+Object loaded org.dstu.PhoneApplication@cde8c6c
+Object loaded org.dstu.PhoneApplication@174721c4
+Object loaded org.dstu.PhoneApplication@3592c1c4
+Object loaded org.dstu.PhoneApplication@322e49ee
+Object loaded org.dstu.PhoneApplication@4aeb0e2b
+Object loaded org.dstu.PhoneApplication@648c5fb3
+Object loaded org.dstu.PhoneApplication@47b33e07
+Object loaded org.dstu.PhoneApplication@7126e26
+appsInstalled.csv successfully parsed. Got 12 items
